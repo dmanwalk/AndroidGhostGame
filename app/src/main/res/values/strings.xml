@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GhostGame</string>
+    <string name="retryButton">Play Again</string>
+    <string name="quitButton">Quit</string>
+    <string name="splash_title">Ghost Game</string>
+    <string name="play_button">Play</string>
+</resources>
